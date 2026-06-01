@@ -1,0 +1,8 @@
+flask
+flask-cors
+pdfplumber
+python-docx
+openai
+werkzeug
+scikit-learn
+numpy
